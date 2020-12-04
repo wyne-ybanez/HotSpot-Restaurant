@@ -1,15 +1,24 @@
 {
   "name": "Tailwind",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Acknowledgements",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css" 
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "tailwindcss": "^2.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyne-ybanez/HotSpot-Restaurant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wyne-ybanez/HotSpot-Restaurant/issues"
+  },
+  "homepage": "https://github.com/wyne-ybanez/HotSpot-Restaurant#readme"
 }
