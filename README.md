@@ -1,5 +1,7 @@
 # TailWind Tester Project
 
+Live Project: https://wyne-ybanez.github.io/HotSpot-Restaurant/
+
 #### Previously named 'HotSpot' - Now named 'Chubby Ninja' 
 
 ### Acknowledgements 
