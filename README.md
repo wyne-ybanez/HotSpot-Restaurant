@@ -1,8 +1,10 @@
 # TailWind Tester Project
 
-# Previously named HotSpot - Now named Chubby Ninja 
+#### Previously named 'HotSpot' - Now named 'Chubby Ninja' 
 
-## Acknowledgements 
+### Acknowledgements 
 
-- Youtube Directory for Tailwind Tutorials: https://www.youtube.com/c/TheNetNinja/videos 
+- TheNetNinja Youtube Directory for Tailwind Tutorial: https://www.youtube.com/c/TheNetNinja/videos 
 - For Images: Unsplash.com 
+- Icons: https://heroicons.dev/
+- Practice Tailwind CSS project
